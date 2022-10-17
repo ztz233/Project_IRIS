@@ -1,0 +1,96 @@
+@MANA_TEXT_X = 154
+@MANA_left_X = -10
+@MANA_right_X = 305
+guiTypes = {
+
+	containerWindowType = {
+		name = "MANA_gui_ui_window"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 217 }
+		clipping = no
+
+		background = {
+			name = "Background"	
+			position = { x = -10 y = -25}				
+			quadTextureSprite ="GFX_MANAxitong2bf"
+		}
+		
+		instantTextBoxType = {
+			name ="MANA_shengyu"
+			position = { x = @MANA_TEXT_X y = 80 }
+			font = "vic_36s"
+			text = "MANA_shengyu_TXT"
+			format = center
+			maxHeight = 24
+			pdx_tooltip = "MANA_shengyushuoming"
+		}
+		instantTextBoxType = {
+			name ="managongfangshuliang"
+			position = { x = @MANA_TEXT_X y = 170 }
+			font = "Arial12"
+			text = "managongfangshuliang_TXT"
+			format = center
+			pdx_tooltip = "managongfangshuliangshuoming"
+		}
+		iconType = {
+			name ="manachuankou"
+			spriteType = "GFX_MANAchuankou"
+			position = { x= -10	 y = -32 }
+			alwaystransparent = yes
+		}	
+		
+
+		
+		
+
+		
+
+		
+
+	}
+
+	containerWindowType = {
+		name = "MANA_th_gui_ui_window"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 217 }
+		clipping = no
+		
+		background = {
+			name = "Background"	
+			position = { x = -10 y = -25}				
+			quadTextureSprite ="GFX_MANAxitongth"
+		}
+		iconType = {
+			name ="TH_txt"
+			spriteType = "GFX_MANAxitongth_p"
+			position = { x= -10	 y = -20 }
+		}
+		iconType = {
+			name ="manachuankou"
+			spriteType = "GFX_MANAchuankou"
+			position = { x= -10	 y = -32 }
+		}						
+
+	}
+
+	###################################颜色系统
+	containerWindowType = {
+		name = "yanse_gui_ui_window"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 217 }
+		clipping = no
+		
+								
+
+	}
+	###################################殖民系统
+	containerWindowType = {
+		name = "zhimin_gui_ui_window"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height= 217 }
+		clipping = no
+		
+								
+
+	}
+}

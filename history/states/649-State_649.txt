@@ -1,0 +1,16 @@
+state={
+	id=649
+	name="STATE_649"
+	provinces={
+		5951 
+	}
+	history={
+        owner = MCP
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

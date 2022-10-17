@@ -1,0 +1,16 @@
+state={
+	id=206
+	name="STATE_206"
+	provinces={
+		114 641 3085 3142 8366 8533 10824 
+	}
+	history={
+        owner = LIO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

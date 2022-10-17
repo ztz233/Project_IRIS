@@ -1,0 +1,9 @@
+state={
+	id=524
+	name="STATE_524"
+	provinces={
+		1625 6017 6329 8420 12887 12925 
+	}
+	state_category=large_town	manpower=0
+	buildings_max_level_factor=1.000
+}

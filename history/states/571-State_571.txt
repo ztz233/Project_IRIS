@@ -1,0 +1,16 @@
+state={
+	id=571
+	name="STATE_571"
+	provinces={
+		420 4625 8212 
+	}
+	history={
+        owner = YUZ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=528
+	name="STATE_528"
+	provinces={
+		706 1258 1324 2824 3113 3467 8380 12880 12905 12944 
+	}
+	history={
+        owner = OCO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

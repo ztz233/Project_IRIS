@@ -1,0 +1,107 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_clip"
+		texturefile = "gfx/interface/clip.dds"
+	}
+
+	spriteType = {
+		name = "GFX_trait_unknown"
+		texturefile = "gfx/interface/traits/trait_unknown.dds"
+		legacy_lazy_load = no
+	}
+	
+	         #### IRIS ####
+	
+	spriteType = {
+		name = "GFX_trait_aojiao"
+		texturefile = "gfx/interface/traits/trait_aojiao.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_tianrandai"
+		texturefile = "gfx/interface/traits/trait_tianrandai.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_wukou"
+		texturefile = "gfx/interface/traits/trait_wukou.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_yuanqi"
+		texturefile = "gfx/interface/traits/trait_yuanqi.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_bingjiao"
+		texturefile = "gfx/interface/traits/trait_bingjiao.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_zhonger"
+		texturefile = "gfx/interface/traits/trait_zhonger.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_gongzuokuang"
+		texturefile = "gfx/interface/traits/trait_gongzuokuang.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_wudechongpei"
+		texturefile = "gfx/interface/traits/trait_wudechongpei.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_bendan"
+		texturefile = "gfx/interface/traits/trait_bendan.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_tiancai"
+		texturefile = "gfx/interface/traits/trait_tiancai.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_luoli"
+		texturefile = "gfx/interface/traits/trait_luoli.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_chihuo"
+		texturefile = "gfx/interface/traits/trait_chihuo.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_linjiao"
+		texturefile = "gfx/interface/traits/trait_linjiao.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_lenjiao"
+		texturefile = "gfx/interface/traits/trait_lenjiao.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_trait_gupi"
+		texturefile = "gfx/interface/traits/trait_gupi.dds"
+		legacy_lazy_load = no
+	}	
+	spriteType = {
+		name = "GFX_trait_yonglan"
+		texturefile = "gfx/interface/traits/trait_yonglan.dds"
+		legacy_lazy_load = no
+	}	
+	spriteType = {
+		name = "GFX_trait_dushe"
+		texturefile = "gfx/interface/traits/trait_dushe.dds"
+		legacy_lazy_load = no
+	}	
+	spriteType = {
+		name = "GFX_trait_kuangqi"
+		texturefile = "gfx/interface/traits/trait_kuangqi.dds"
+		legacy_lazy_load = no
+	}	
+	
+}

@@ -1,0 +1,9 @@
+state={
+	id=339
+	name="STATE_339"
+	provinces={
+		65 1392 3054 4191 4790 4868 5714 6032 6234 6306 6991 8145 11609 11614 11618 11646 11651 11730 11732 11760 11761 
+	}
+	state_category=large_town	manpower=0
+	buildings_max_level_factor=1.000
+}

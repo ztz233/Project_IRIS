@@ -1,0 +1,16 @@
+state={
+	id=241
+	name="STATE_241"
+	provinces={
+		10920 10951 
+	}
+	history={
+        owner = UNG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

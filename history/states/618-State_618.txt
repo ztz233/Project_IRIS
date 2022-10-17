@@ -1,0 +1,16 @@
+state={
+	id=618
+	name="STATE_618"
+	provinces={
+		2526 2579 13404 
+	}
+	history={
+        owner = TFM
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,113 @@
+SLL	= "countries/shenglinglan.txt"
+XBF = "countries/XBF.txt"
+DNF = "countries/DNF.txt"
+HEI	= "countries/HEI.txt"
+HOG	= "countries/HOG.txt"
+HOD	= "countries/HOD.txt"
+HOM	= "countries/HOM.txt"
+FEN	= "countries/FEN.txt"
+LHU	= "countries/LHU.txt"
+DHU	= "countries/DHU.txt"
+DLA	= "countries/DLA.txt"
+MLA	= "countries/MLA.txt"
+LLA	= "countries/LLA.txt"
+ZII	= "countries/ZII.txt"
+LVV	= "countries/LVV.txt"
+CHN	= "countries/CHN.txt"
+ZON	= "countries/ZON.txt"
+ZNM	= "countries/ZNM.txt"
+ZNJ	= "countries/ZNJ.txt"
+CAI	= "countries/CAI.txt"
+WRQ	= "countries/WRQ.txt"
+ULA	= "countries/ULA.txt"
+
+
+TAU	= "countries/TAU.txt"	#特雷森
+BOW	= "countries/BOW.txt"	#博闻
+PCC	= "countries/PCC.txt"	#进步理事会
+UNG	= "countries/UNG.txt"	#昂格利亚
+USR	= "countries/USR.txt"	#乌斯拉尔
+LTN	= "countries/LTN.txt"	#洛蒂安
+ELN	= "countries/ELN.txt"	#爱丽诺
+FAC	= "countries/FAC.txt"	#大彼岸洋舰队联合
+SKR	= "countries/SKR.txt"	#早樱
+BLA	= "countries/BLA.txt"	#贝拉格利耶
+IKR	= "countries/IKR.txt"	#伊吉特里克业力
+KAM	= "countries/KAM.txt"	#卡尔莫汗国
+FUS	= "countries/FUS.txt"	#自由合众国
+MAG	= "countries/MAG.txt"	#魔联
+YUZ	= "countries/YUZ.txt"	#柚子社
+NEV	= "countries/NEV.txt"	#NERV
+
+
+
+SRS	= "countries/SRS.txt"	#赛莲斯帝国
+LMN	= "countries/LMN.txt"	#莲门
+
+NAC	= "countries/NAC.txt"	#北方联合舰队
+
+WST	= "countries/WST.txt"	#废土
+
+HKY	= "countries/HKY.txt"	#白玉楼
+HKR	= "countries/HKR.txt"	#博丽神社
+TNA	= "countries/TNA.txt"	#地狱
+KMK	= "countries/KMK.txt"	#红魔馆
+TFM	= "countries/TFM.txt"	#魔法之森
+GOS	= "countries/GOS.txt"	#太阳花田
+YKM	= "countries/YKM.txt"	#妖怪之山
+EPV	= "countries/EPV.txt"	#永远亭
+AKA	= "countries/AKA.txt"	#有顶天
+MCP	= "countries/MCP.txt"	#月都
+
+FCT	= "countries/FCT.txt"	#自由都市
+LZH	= "countries/LZH.txt"	#莱扎哈矿业
+
+HRM	= "countries/HRM.txt"	#赫尔曼帝国
+LSS	= "countries/LSS.txt"	#利萨斯王国
+CNN	= "countries/CNN.txt"	#奇纳尼沙漠
+KRA	= "countries/KRA.txt"	#卡拉森林
+SET	= "countries/SET.txt"	#赛斯
+GEO	= "countries/GEO.txt"	#吉欧拉尔王国
+DMZ	= "countries/DMZ.txt"	#魔物区
+
+OCE	= "countries/OCE.txt"	#大洋国
+SDK	= "countries/SDK.txt"	#影之国
+MLC	= "countries/MLC.txt"	#千年城
+LIO	= "countries/LIO.txt"	#利奥
+CLD	= "countries/CLD.txt"	#迦勒底
+
+LAD	= "countries/LAD.txt"	#兰德索尔
+OCO	= "countries/OCO.txt"	#兽人之国
+
+TDL	= "countries/TDL.txt"	#塔德里克
+ROD	= "countries/ROD.txt"	#罗德岛
+SPK	= "countries/SPK.txt"	#特种作战指挥部
+AIL	= "countries/AIL.txt"	#盟军
+STO	= "countries/STO.txt"	#黑石盟约
+
+ROY	= "countries/ROY.txt"	#皇家
+WEG	= "countries/WEG.txt"	#白鹰
+DHN	= "countries/DHN.txt"	#东煌
+HSK	= "countries/HSK.txt"	#重樱
+SDN	= "countries/SDN.txt"	#撒丁
+HEM	= "countries/HEM.txt"	#铁血
+IRI	= "countries/IRI.txt"	#鸢尾
+
+
+TX0	= "countries/TX0.txt"	#未知
+
+
+
+
+
+
+
+TX1	= "countries/TX1.txt"	#待定1
+TX2	= "countries/TX2.txt"	#待定2
+TX3	= "countries/TX3.txt"	#待定3
+TX4	= "countries/TX4.txt"	#待定4
+TX5	= "countries/TX5.txt"	#待定5
+TX6	= "countries/TX6.txt"	#待定6
+TX7	= "countries/TX7.txt"	#待定7
+TX8	= "countries/TX8.txt"	#待定8
+TX9	= "countries/TX9.txt"	#待定9

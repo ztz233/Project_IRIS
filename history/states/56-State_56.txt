@@ -1,0 +1,16 @@
+state={
+	id=56
+	name="STATE_56"
+	provinces={
+		1891 3450 8471 9556 9584 
+	}
+	history={
+        owner = IRI
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

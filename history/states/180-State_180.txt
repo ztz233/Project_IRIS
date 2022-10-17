@@ -1,0 +1,16 @@
+state={
+	id=180
+	name="STATE_180"
+	provinces={
+		1645 1770 3514 6041 7508 10515 10635 10668 
+	}
+	history={
+        owner = LTN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

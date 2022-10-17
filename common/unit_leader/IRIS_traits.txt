@@ -1,0 +1,274 @@
+leader_traits = {
+    #傲娇
+	aojiao = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			army_attack_factor = 0.05
+			experience_gain_army_factor = -0.05
+			land_reinforce_rate = -0.02
+			recon_factor = -0.02
+			max_planning = -0.1
+			breakthrough_factor = 0.05
+		}
+	}
+	#天然呆
+	tianrandai = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			planning_speed = -0.1
+			max_planning = 0.25
+			army_morale_factor = 0.05
+			equipment_capture = 0.02
+		}
+	}
+	#无口
+	wukou = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			max_planning = 0.15
+			recon_factor = 0.1
+			org_loss_when_moving = 0.02
+			land_reinforce_rate = -0.02
+		}
+	}
+	#元气
+	yuanqi = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			army_speed_factor = 0.05
+			army_morale_factor= 0.05
+			wounded_chance_factor = -0.2
+			acclimatization_cold_climate_gain_factor = 0.02
+			acclimatization_hot_climate_gain_factor = 0.02
+		}
+	}
+	#病娇
+	bingjiao = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			experience_loss_factor = 0.1
+			army_attack_factor = 0.07
+			breakthrough_factor = 0.1
+			army_morale_factor = -0.05
+			wounded_chance_factor = 0.5
+			reassignment_duration_factor = 3
+			max_commander_army_size = -4
+		}
+	}
+	#中二
+	zhonger = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			attrition = 0.02
+			planning_speed = 0.05
+			max_planning = 0.05
+			army_org_factor = -0.05
+			army_morale_factor = 0.05
+		}
+	}
+	#工作狂
+	gongzuokuang = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			planning_speed = 0.5
+			max_planning = 0.1
+			experience_loss_factor = 0.025
+			experience_gain_factor = -0.1
+			wounded_chance_factor = 0.5
+			winter_attrition_factor = -0.25
+			reassignment_duration_factor = -1
+		}
+	}
+	#武德充沛
+	wudechongpei = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			army_attack_factor = 0.07
+			army_defence_factor = 0.12
+			experience_gain_factor = -0.1
+		}
+	}
+	#笨蛋
+	bendan = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			experience_gain_factor = -0.3
+			max_planning = -0.2
+			army_speed_factor = -0.05
+			supply_consumption_factor = -0.1
+			org_loss_when_moving = -0.1
+			breakthrough_factor = 0.05
+			wounded_chance_factor = 0.25
+		}
+	}
+	#天才
+	tiancai = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			planning_speed = 0.25
+			max_planning = 0.25
+			experience_gain_factor = 0.1
+			army_attack_factor = 0.05
+			army_defence_factor = 0.05
+			breakthrough_factor = 0.05
+			army_morale_factor = -0.1
+			supply_consumption_factor = 0.1
+			land_reinforce_rate = -0.1
+			river = {
+				attack = 0.1
+			}
+		}
+	}
+	#萝莉
+	luoli = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			army_org_factor = -0.25
+			land_reinforce_rate = 0.2
+			army_speed_factor = 0.1
+			army_defence_factor = 0.2
+		}
+	}
+	#吃货
+	chihuo = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			extra_marine_supply_grace = 240
+			extra_paratrooper_supply_grace = 240
+			supply_consumption_factor = 0.1
+			invasion_preparation = 1
+			amphibious_invasion = 3
+			equipment_capture = 0.05
+		}
+	}
+	#凛娇
+	linjiao = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			army_org_factor = 0.2
+			planning_speed = -0.1
+			max_planning = 0.15
+			org_loss_when_moving = 0.15
+			army_defence_factor = 0.2
+		}
+	}
+	#冷娇
+	lenjiao = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			recon_factor = 0.1
+			land_reinforce_rate = -0.1
+			army_defence_factor = 0.15
+			org_loss_when_moving = 0.1
+			experience_loss_factor = -0.3
+			experience_gain_factor = -0.1
+			winter_attrition_factor = -0.1
+			acclimatization_cold_climate_gain_factor = 0.1
+		}
+	}
+	#孤僻
+	gupi = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			army_morale_factor = 0.07
+			experience_gain_factor = -0.1
+			experience_loss_factor = -0.25
+			max_planning = 0.25
+			land_reinforce_rate = -0.15
+			terrain_penalty_reduction = 0.1
+		}
+	}
+	#慵懒
+	yonglan = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			breakthrough_factor = -0.05
+			recon_factor = -0.05
+			army_speed_factor = -0.15
+			planning_speed = -0.5
+			experience_gain_army_factor = -0.25
+			max_planning = 0.5
+			experience_loss_factor = -0.5
+			army_defence_factor = 0.2
+			org_loss_when_moving = -0.25
+			amphibious_invasion = -0.25
+		}
+	}
+	#毒舌
+	dushe = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			army_attack_factor = 0.1
+			breakthrough_factor = 0.1
+			land_reinforce_rate = -0.15
+		}
+	}
+	#狂气
+	kuangqi = {
+		type = all
+		allowed = {
+			always = no 
+		}
+		modifier = {
+			breakthrough_factor = 0.1
+			army_attack_factor = 0.1
+			army_speed_factor = 0.15
+			army_org_factor = -0.2
+			army_morale_factor = 0.05
+			planning_speed = 0.25
+			max_planning = -0.4
+		}
+	}
+	
+}

@@ -1,0 +1,137 @@
+default = {
+	#navy = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	#army = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+
+	operative = {
+		male = {
+			"GFX_portrait_operative_unknown"
+		}
+		female = {
+			"GFX_portrait_operative_unknown"
+		}
+	}
+
+	male = {
+		"GFX_portrait_unknown"
+	}
+	female = {
+		"GFX_portrait_unknown_female"
+	}
+}
+
+continent = {
+	name = europe
+	army = {
+		male = {
+			"GFX_Portrait_Europe_Generic_land_1"
+			"GFX_Portrait_Europe_Generic_land_2"
+			"GFX_Portrait_Europe_Generic_land_3"
+			"GFX_Portrait_Europe_Generic_land_4"
+			"GFX_Portrait_Europe_Generic_land_5"
+			"GFX_portrait_europe_generic_land_13"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_Europe_Generic_navy_1"
+			"GFX_Portrait_Europe_Generic_navy_2"
+			"GFX_Portrait_Europe_Generic_navy_3"
+		}
+	}
+	
+	political = {
+		junzhuzhiminzhuzhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_1"
+			}
+		}
+		gonghezhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_2" 
+			}
+		}
+		weiquanshehuizhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		ziyoushehuizhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		kaituozhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		junzhenfu = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		junzhuzhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		weiquanminzhuzhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		manazhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		chaoyuezhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		annacaizhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		eryuanguilinzhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		jiangzhizhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		genyuanshouhuzhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		zhipeizhuyi = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+		wurenqv = {
+				male = { 
+					"GFX_Portrait_Europe_Generic_3" 
+			}
+		}
+	}
+
+}

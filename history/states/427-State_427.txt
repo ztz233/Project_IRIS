@@ -1,0 +1,16 @@
+state={
+	id=427
+	name="STATE_427"
+	provinces={
+		1030 1829 1878 1904 2114 2315 4369 4443 4458 4768 4998 5014 5493 5925 6373 8204 8276 12422 12480 12504 12523 
+	}
+	history={
+        owner = MAG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

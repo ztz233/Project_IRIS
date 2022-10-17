@@ -1,0 +1,16 @@
+state={
+	id=622
+	name="STATE_622"
+	provinces={
+		105 2673 2834 3223 4831 7227 7386 7403 8102 8606 13391 13423 13466 13472 
+	}
+	history={
+        owner = WST
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

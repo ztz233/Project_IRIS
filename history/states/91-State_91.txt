@@ -1,0 +1,9 @@
+state={
+	id=91
+	name="STATE_91"
+	provinces={
+		434 1675 5821 7843 7853 9880 9920 9953 9988 
+	}
+	state_category=large_town	manpower=0
+	buildings_max_level_factor=1.000
+}

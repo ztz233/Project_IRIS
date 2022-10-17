@@ -1,0 +1,16 @@
+state={
+	id=422
+	name="STATE_422"
+	provinces={
+		1453 2464 5229 7685 12269 12298 12335 
+	}
+	history={
+        owner = FCT
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

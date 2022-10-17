@@ -1,0 +1,545 @@
+ideologies = {
+	
+	#共产主义
+	communism = {
+	
+		types = {
+			sub_Totalitarian_Socialism = {
+			}
+			sub_Vanguardism = {
+			}
+			sub_Left_Wing_Communism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 255 0 0 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+	#安那其主义
+	anarchism = {
+	
+		types = {
+			sub_Anarcho_Capitalism = {
+			}
+			sub_Anarcho_Syndicalism = {
+			}
+			sub_Anarcho_Collectivism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 176 23 31 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+	#整合主义
+	integrism = {
+	
+		types = {
+			sub_Objectivism = {
+			}
+			sub_Pierrism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 189 252 201 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+	#国家社会主义
+	national_socialism = {
+	
+		types = {
+			sub_Nazism = {
+			}
+			sub_Bonapartism = {
+			}
+			sub_Facism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 139 69 19 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+	#玛娜主义
+	manaism = {
+	
+		types = {
+			sub_Lilism = {
+			}
+			sub_Environmentalism = {
+			}
+			sub_Religious_Fundamentalism = {
+			}
+			sub_Reactionism = {
+			}
+			sub_Theocracy = {
+			}
+			sub_Librarism = {
+			}
+			sub_Magism = {
+			}
+			sub_Regressivism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 50 205 50 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}	
+
+	#进步主义
+	progressivism = {
+	
+		types = {
+			sub_Techno_Bureaucracy = {
+			}
+			sub_Futurism = {
+			}
+			sub_Academia = {
+			}
+			sub_Transhumanism = {
+			}
+			sub_Fetishism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 240 255 255 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+
+	#社会民主主义
+	social_democracy = {
+	
+		types = {
+			sub_Left_Wing_Nationalism = {
+			}
+			sub_Social_Democracy = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 176 48 96 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+	#自由主义
+	liberalism = {
+	
+		types = {
+			sub_Market_Liberalism = {
+			}
+			sub_Social_Liberalism = {
+			}
+			sub_Industrial_Liberalism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 61 89 171 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+	#保守主义
+	conservatism = {
+	
+		types = {
+			sub_Industrial_Conservatism = {
+			}
+			sub_Mana_Conservatism = {
+			}
+			sub_National_Conservatism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 192 192 192 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+	#威权主义
+	authoritarianism = {
+	
+		types = {
+			sub_Junta = {
+			}
+			sub_Authoritarian_Democracy = {
+			}
+			sub_Oligarchy = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 128 138 135 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+
+	#专制主义
+	despotism = {
+	
+		types = {
+			sub_Monarchy = {
+			}
+			sub_Constitutional_Dictatorship = {
+			}
+			sub_Military_Dictatorship = {
+			}
+			sub_Altrianism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+		}
+		
+		color = { 245 245 245 }
+		
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.25
+			join_faction_tension = 0.25
+			lend_lease_tension = 0.75
+			send_volunteers_tension = 0.8
+			guarantee_tension = 1
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 
+		}
+		ai_neutral = yes 
+	}
+	
+	#########################################
+}

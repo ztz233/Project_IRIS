@@ -1,0 +1,16 @@
+state={
+	id=593
+	name="STATE_593"
+	provinces={
+		6525 13188 
+	}
+	history={
+        owner = HKY
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=275
+	name="STATE_275"
+	provinces={
+		2002 3281 3454 3643 6044 6365 6371 7729 8155 11198 11262 11273 11298 
+	}
+	history={
+        owner = TAU
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

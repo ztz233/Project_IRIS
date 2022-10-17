@@ -1,0 +1,285 @@
+﻿l_english:
+ communism:0"共产主义"
+ communism_noun:0"共产主义"
+
+ anarchism:0"安那其主义"
+ anarchism_noun:0"安那其主义" 
+
+ integrism:0"整合主义"
+ integrism_noun:0"整合主义" 
+
+ national_socialism:0"国家社会主义"
+ national_socialism_noun:0"国家社会主义" 
+
+ manaism:0"玛娜主义"
+ manaism_noun:0"玛娜主义" 
+
+ progressivism:0"进步主义"
+ progressivism_noun:0"进步主义" 
+
+ social_democracy:0"社会民主主义"
+ social_democracy_noun:0"社会民主主义" 
+
+ liberalism:0"自由主义"
+ liberalism_noun:0"自由主义" 
+
+
+ conservatism:0"保守主义"
+ conservatism_noun:0"保守主义" 
+
+ authoritarianism:0"威权主义"
+ authoritarianism_noun:0"威权主义" 
+
+ despotism:0"专制主义"
+ despotism_noun:0"专制主义" 
+
+
+
+ ######################################子意识形态
+ sub_Totalitarian_Socialism:0"极权社会主义"
+ sub_Totalitarian_Socialism_desc:0"极权社会主义"
+
+ sub_Vanguardism:0"先锋队"
+ sub_Vanguardism_desc:0"先锋队"
+
+ sub_Left_Wing_Communism:0"左翼共产主义"
+ sub_Left_Wing_Communism_desc:0"左翼共产主义"
+ 
+
+ #
+
+
+ sub_Anarcho_Capitalism:0"安那其资本主义"
+ sub_Anarcho_Capitalism_desc:0"安那其资本主义"
+
+ sub_Anarcho_Syndicalism:0"安那其工团主义"
+ sub_Anarcho_Syndicalism_desc:0"安那其工团主义"
+
+ sub_Anarcho_Collectivism:0"安那其集体主义"
+ sub_Anarcho_Collectivism_desc:0"安那其集体主义"
+ 
+
+ #
+
+
+ sub_Objectivism:0"客观主义"
+ sub_Objectivism_desc:0"客观主义"
+
+ sub_Pierrism:0"皮埃尔主义"
+ sub_Pierrism_desc:0"皮埃尔主义"
+ 
+
+ #
+
+
+ sub_Nazism:0"纳粹主义"
+ sub_Nazism_desc:0"纳粹主义"
+
+ sub_Bonapartism:0"波拿巴主义"
+ sub_Bonapartism_desc:0"波拿巴主义"
+
+ sub_Facism:0"法西斯主义"
+ sub_Facism_desc:0"法西斯主义"
+ 
+
+ #
+
+
+ sub_Lilism:0"铃兰主义"
+ sub_Lilism_desc:0"铃兰主义"
+
+ sub_Environmentalism:0"环保主义"
+ sub_Environmentalism_desc:0"环保主义"
+
+ sub_Religious_Fundamentalism:0"宗教原教旨主义"
+ sub_Religious_Fundamentalism_desc:0"宗教原教旨主义"
+
+ sub_Reactionism:0"反动主义"
+ sub_Reactionism_desc:0"反动主义"
+
+ sub_Theocracy:0"神权主义"
+ sub_Theocracy_desc:0"神权主义"
+
+ sub_Librarism:0"博闻主义"
+ sub_Librarism_desc:0"博闻主义"
+
+ sub_Magism:0"魔法主义"
+ sub_Magism_desc:0"魔法主义"
+
+ sub_Regressivism:0"回归主义"
+ sub_Regressivism_desc:0"回归主义"
+ 
+
+ #
+
+
+ sub_Techno_Bureaucracy:0"技术官僚主义"
+ sub_Techno_Bureaucracy_desc:0"技术官僚主义"
+
+ sub_Futurism:0"未来主义"
+ sub_Futurism_desc:0"未来主义"
+
+ sub_Academia:0"学园主义"
+ sub_Academia_desc:0"学园主义"
+
+ sub_Transhumanism:0"超人类主义"
+ sub_Transhumanism_desc:0"超人类主义"
+
+ sub_Fetishism:0"拜物神教"
+ sub_Fetishism_desc:0"拜物神教"
+ 
+
+ #
+
+
+ sub_Left_Wing_Nationalism:0"左翼民族主义"
+ sub_Left_Wing_Nationalism_desc:0"左翼民族主义"
+
+ sub_Social_Democracy:0"社会民主主义"
+ sub_Social_Democracy_desc:0"社会民主主义"
+ 
+
+ #
+
+
+ sub_Market_Liberalism:0"自由市场主义"
+ sub_Market_Liberalism_desc:0"自由市场主义"
+
+ sub_Social_Liberalism:0"社会自由主义"
+ sub_Social_Liberalism_desc:0"社会自由主义"
+
+ sub_Industrial_Liberalism:0"工业自由主义"
+ sub_Industrial_Liberalism_desc:0"工业自由主义"
+ 
+
+ #
+
+
+ sub_Industrial_Conservatism:0"工业保守主义"
+ sub_Industrial_Conservatism_desc:0"工业保守主义"
+
+ sub_Mana_Conservatism:0"玛娜保守主义"
+ sub_Mana_Conservatism_desc:0"玛娜保守主义"
+
+ sub_National_Conservatism:0"民族保守主义"
+ sub_National_Conservatism_desc:0"民族保守主义"
+ 
+
+ #
+
+
+ sub_Junta:0"军政府"
+ sub_Junta_desc:0"军政府"
+
+ sub_Authoritarian_Democracy:0"威权民主主义"
+ sub_Authoritarian_Democracy_desc:0"威权民主主义"
+
+ sub_Oligarchy:0"寡头政治"
+ sub_Oligarchy_desc:0"寡头政治"
+ 
+
+ #
+
+ sub_Monarchy:0"君主制"
+ sub_Monarchy_desc:0"君主制"
+
+ sub_Altrianism:0"阿尔托莉雅主义"
+ sub_Altrianism_desc:0"阿尔托莉雅主义"
+
+ sub_Constitutional_Dictatorship:0"宪制独裁"
+ sub_Constitutional_Dictatorship_desc:0"宪制独裁"
+
+ sub_Military_Dictatorship:0"军事独裁"
+ sub_Military_Dictatorship_desc:0"军事独裁"
+
+
+
+
+
+ 
+
+
+ ##############修正
+ communism_drift:0 "共产主义理念每日新增支持率"
+ communism_acceptance:0 "共产主义外交的接纳度"
+
+ anarchism_drift:0 "安那其主义理念每日新增支持率"
+ anarchism_acceptance:0 "安那其主义外交的接纳度"
+
+ integrism_drift:0 "整合主义理念每日新增支持率"
+ integrism_acceptance:0 "整合主义外交的接纳度"
+
+ national_socialism_drift:0 "国家社会主义理念每日新增支持率"
+ national_socialism_acceptance:0 "国家社会主义外交的接纳度"
+
+ manaism_drift:0 "玛娜主义理念每日新增支持率"
+ manaism_acceptance:0 "玛娜主义外交的接纳度"
+
+ progressivism_drift:0 "进步主义理念每日新增支持率"
+ progressivism_acceptance:0 "进步主义外交的接纳度"
+
+ social_democracy_drift:0 "社会民主主义理念每日新增支持率"
+ social_democracy_acceptance:0 "社会民主主义外交的接纳度"
+
+ liberalism_drift:0 "自由主义理念每日新增支持率"
+ liberalism_acceptance:0 "自由主义外交的接纳度"
+
+ conservatism_drift:0 "保守主义理念每日新增支持率"
+ conservatism_acceptance:0 "保守主义外交的接纳度"
+
+ authoritarianism_drift:0 "威权主义理念每日新增支持率"
+ authoritarianism_acceptance:0 "威权主义外交的接纳度"
+
+ despotism_drift:0 "专制主义理念每日新增支持率"
+ despotism_acceptance:0 "专制主义外交的接纳度"
+
+
+
+
+ ##############
+
+
+ communism_desc:0"共产政体"
+
+
+ anarchism_desc:0"无政府主义" 
+
+
+ integrism_desc:0"整合主义政体" 
+
+ national_socialism_desc:0"国社政体" 
+
+ manaism_desc:0"玛纳主义" 
+
+ progressivism_desc:0"进步主义" 
+
+ social_democracy_desc:0"社民政体" 
+
+ liberalism_desc:0"自由主义政体" 
+
+
+ conservatism_desc:0"保守政体" 
+
+ authoritarianism_desc:0"威权政体" 
+
+ despotism_desc:0"专制政体" 
+
+
+
+ ##############
+ UNG_despotism_party:0"圆桌骑士团"
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

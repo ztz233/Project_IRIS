@@ -1,0 +1,16 @@
+state={
+	id=409
+	name="STATE_409"
+	provinces={
+		4226 5262 5311 5412 5879 6598 7036 7064 7307 7357 7654 12203 12221 12232 12250 12263 12279 12297 12311 
+	}
+	history={
+        owner = BOW
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

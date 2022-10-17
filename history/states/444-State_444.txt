@@ -1,0 +1,16 @@
+state={
+	id=444
+	name="STATE_444"
+	provinces={
+		84 489 920 6810 7174 7709 7773 12450 12485 12542 
+	}
+	history={
+        owner = LZH
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

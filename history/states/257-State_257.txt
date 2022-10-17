@@ -1,0 +1,16 @@
+state={
+	id=257
+	name="STATE_257"
+	provinces={
+		1009 2869 11019 11050 11071 
+	}
+	history={
+        owner = SDK
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

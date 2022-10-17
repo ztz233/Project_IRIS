@@ -1,0 +1,16 @@
+state={
+	id=227
+	name="STATE_227"
+	provinces={
+		2650 4333 4528 6226 8329 10885 10901 10907 10973 
+	}
+	history={
+        owner = LTN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

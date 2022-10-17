@@ -1,0 +1,16 @@
+state={
+	id=442
+	name="STATE_442"
+	provinces={
+		368 6946 12426 12427 12457 
+	}
+	history={
+        owner = MAG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

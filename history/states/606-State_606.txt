@@ -1,0 +1,16 @@
+state={
+	id=606
+	name="STATE_606"
+	provinces={
+		1424 5939 13302 13316 
+	}
+	history={
+        owner = HKR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

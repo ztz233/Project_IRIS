@@ -1,0 +1,11 @@
+
+opinion_modifiers = {
+    ###神圣不可侵犯
+	SLL_ssbkqf = {
+		value = -50
+	}
+	###拒绝参与根源大会
+	SLL_jvjuecanhui = {
+		value = -30
+	}
+}

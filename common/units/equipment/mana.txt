@@ -1,0 +1,50 @@
+equipments = {
+
+	refined_mana = {
+		year = 3075
+
+		is_archetype = yes
+		picture = archetype_support_equipment
+		is_buildable = no
+		type = {
+			infantry
+			motorized
+		}
+		group_by = archetype
+
+		interface_category = interface_category_land
+
+		active = yes
+
+		#Misc Abilities
+		maximum_speed = 10
+		reliability = 0.8
+
+		#Defensive Abilities
+		defense = 25
+		breakthrough = 0
+		hardness = 0.8
+		armor_value = 10
+
+		#Offensive Abilities
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+
+		build_cost_ic = 3.5
+		resources = {
+			raw_mana = 1
+		}
+	}
+	refined_mana_1 = {
+		year = 3075
+
+		archetype = refined_mana
+		active = no
+		priority = 20
+		visual_level = 0	
+	}
+
+}

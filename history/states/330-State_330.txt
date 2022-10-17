@@ -1,0 +1,16 @@
+state={
+	id=330
+	name="STATE_330"
+	provinces={
+		5763 
+	}
+	history={
+        owner = SKR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=560
+	name="STATE_560"
+	provinces={
+		1856 4839 5838 12966 13006 13046 
+	}
+	state_category=large_town	manpower=0
+	buildings_max_level_factor=1.000
+}

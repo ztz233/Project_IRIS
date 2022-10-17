@@ -1,0 +1,16 @@
+state={
+	id=24
+	name="STATE_24"
+	provinces={
+		1459 1984 2324 2404 2545 2574 3414 3859 3976 4061 4704 6858 7963 9103 9104 9105 9124 9146 9157 9168 9190 9256 9257 
+	}
+	history={
+        owner = ROY
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

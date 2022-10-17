@@ -1,0 +1,16 @@
+state={
+	id=413
+	name="STATE_413"
+	provinces={
+		304 1430 3332 3900 4379 4424 4562 4573 4945 5189 5513 6898 7043 7129 7504 7573 12227 12247 12248 12262 12275 12276 12306 12333 12343 12356 12362 12367 12371 12382 12383 12397 
+	}
+	history={
+        owner = MAG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

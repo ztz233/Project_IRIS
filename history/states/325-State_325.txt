@@ -1,0 +1,16 @@
+state={
+	id=325
+	name="STATE_325"
+	provinces={
+		1551 2320 3029 6326 6338 6372 11560 11590 11601 
+	}
+	history={
+        owner = NEV
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

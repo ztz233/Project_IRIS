@@ -1,0 +1,1388 @@
+characters={
+
+	阿尔托莉雅={
+		name="阿尔托莉雅"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/阿尔托莉雅.png"
+				small="gfx/interface/ideas/UNG/阿尔托莉雅.dds"
+			}
+			civilian={
+				large="gfx/leaders/UNG/阿尔托莉雅.png"
+				small="gfx/interface/ideas/UNG/阿尔托莉雅.dds"
+			}
+		}
+		field_marshal={
+			traits={linjiao chihuo  thorough_planner war_hero politically_connected career_officer inspirational_leader }
+			skill=4
+			attack_skill=2
+			defense_skill=4
+			planning_skill=3
+			logistics_skill=4
+			legacy_id=-1
+		}
+		country_leader={
+			ideology= sub_Altrianism
+			traits={ 骑士王 誓约胜利之剑 }
+			expire="3200.1.1.1"
+		}
+	}
+	阿格规文={
+		name="阿格规文"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/阿格规文.png"
+				small="gfx/interface/ideas/UNG/阿格规文.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/阿格规文.png"
+				small="gfx/interface/ideas/UNG/阿格规文.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 阿格规文			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	苍崎橙子={
+		name="苍崎橙子"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/苍崎橙子.png"
+				small="gfx/interface/ideas/UNG/苍崎橙子.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/苍崎橙子.png"
+				small="gfx/interface/ideas/UNG/苍崎橙子.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 苍崎橙子			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	莫德雷德={
+		name="莫德雷德"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/莫德雷德.png"
+				small="gfx/interface/ideas/UNG/莫德雷德.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/莫德雷德.png"
+				small="gfx/interface/ideas/UNG/莫德雷德.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 莫德雷德			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	卡莲·奥尔黛西亚={
+		name="卡莲·奥尔黛西亚"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/卡莲·奥尔黛西亚.png"
+				small="gfx/interface/ideas/UNG/卡莲·奥尔黛西亚.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/卡莲·奥尔黛西亚.png"
+				small="gfx/interface/ideas/UNG/卡莲·奥尔黛西亚.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 卡莲·奥尔黛西亚			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	薇尔莉特·伊芙加登={
+		name="薇尔莉特·伊芙加登"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/薇尔莉特·伊芙加登.png"
+				small="gfx/interface/ideas/UNG/薇尔莉特·伊芙加登.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/薇尔莉特·伊芙加登.png"
+				small="gfx/interface/ideas/UNG/薇尔莉特·伊芙加登.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 薇尔莉特·伊芙加登			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	远坂凛={
+		name="远坂凛"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/远坂凛.png"
+				small="gfx/interface/ideas/UNG/远坂凛.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/远坂凛.png"
+				small="gfx/interface/ideas/UNG/远坂凛.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 远坂凛			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	阿萨姆={
+		name="阿萨姆"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/阿萨姆.png"
+				small="gfx/interface/ideas/UNG/阿萨姆.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/阿萨姆.png"
+				small="gfx/interface/ideas/UNG/阿萨姆.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 阿萨姆			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	爱尔奎特·布伦史塔德={
+		name="爱尔奎特·布伦史塔德"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/爱尔奎特·布伦史塔德.png"
+				small="gfx/interface/ideas/UNG/爱尔奎特·布伦史塔德.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/爱尔奎特·布伦史塔德.png"
+				small="gfx/interface/ideas/UNG/爱尔奎特·布伦史塔德.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 爱尔奎特·布伦史塔德			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚={
+		name="奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚.png"
+				small="gfx/interface/ideas/UNG/奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚.png"
+				small="gfx/interface/ideas/UNG/奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	
+	巴泽特·弗拉加·马克雷密斯={
+		name="巴泽特·弗拉加·马克雷密斯"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/巴泽特·弗拉加·马克雷密斯.png"
+				small="gfx/interface/ideas/UNG/巴泽特·弗拉加·马克雷密斯.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/巴泽特·弗拉加·马克雷密斯.png"
+				small="gfx/interface/ideas/UNG/巴泽特·弗拉加·马克雷密斯.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 巴泽特·弗拉加·马克雷密斯			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	
+	贝德维尔={
+		name="贝德维尔"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/贝德维尔.png"
+				small="gfx/interface/ideas/UNG/贝德维尔.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/贝德维尔.png"
+				small="gfx/interface/ideas/UNG/贝德维尔.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 贝德维尔			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	
+	苍崎青子={
+		name="苍崎青子"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/苍崎青子.png"
+				small="gfx/interface/ideas/UNG/苍崎青子.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/苍崎青子.png"
+				small="gfx/interface/ideas/UNG/苍崎青子.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 苍崎青子			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	橙黄白毫={
+		name="橙黄白毫"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/橙黄白毫.png"
+				small="gfx/interface/ideas/UNG/橙黄白毫.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/橙黄白毫.png"
+				small="gfx/interface/ideas/UNG/橙黄白毫.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 橙黄白毫			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	崔斯坦={
+		name="崔斯坦"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/崔斯坦.png"
+				small="gfx/interface/ideas/UNG/崔斯坦.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/崔斯坦.png"
+				small="gfx/interface/ideas/UNG/崔斯坦.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 崔斯坦			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	大吉岭={
+		name="大吉岭"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/大吉岭.png"
+				small="gfx/interface/ideas/UNG/大吉岭.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/大吉岭.png"
+				small="gfx/interface/ideas/UNG/大吉岭.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 大吉岭			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	高文={
+		name="高文"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/高文.png"
+				small="gfx/interface/ideas/UNG/高文.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/高文.png"
+				small="gfx/interface/ideas/UNG/高文.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 高文			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	格蕾={
+		name="格蕾"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/格蕾.png"
+				small="gfx/interface/ideas/UNG/格蕾.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/格蕾.png"
+				small="gfx/interface/ideas/UNG/格蕾.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 格蕾			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	加拉哈德={
+		name="加拉哈德"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/加拉哈德.png"
+				small="gfx/interface/ideas/UNG/加拉哈德.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/加拉哈德.png"
+				small="gfx/interface/ideas/UNG/加拉哈德.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 加拉哈德			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	加雷斯={
+		name="加雷斯"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/加雷斯.png"
+				small="gfx/interface/ideas/UNG/加雷斯.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/加雷斯.png"
+				small="gfx/interface/ideas/UNG/加雷斯.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 加雷斯			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	间桐樱={
+		name="间桐樱"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/间桐樱.png"
+				small="gfx/interface/ideas/UNG/间桐樱.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/间桐樱.png"
+				small="gfx/interface/ideas/UNG/间桐樱.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 间桐樱			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	久宇舞弥={
+		name="久宇舞弥"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/久宇舞弥.png"
+				small="gfx/interface/ideas/UNG/久宇舞弥.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/久宇舞弥.png"
+				small="gfx/interface/ideas/UNG/久宇舞弥.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 久宇舞弥			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	久远寺有珠={
+		name="久远寺有珠"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/久远寺有珠.png"
+				small="gfx/interface/ideas/UNG/久远寺有珠.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/久远寺有珠.png"
+				small="gfx/interface/ideas/UNG/久远寺有珠.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 久远寺有珠			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	莱妮丝={
+		name="莱妮丝"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/莱妮丝.png"
+				small="gfx/interface/ideas/UNG/莱妮丝.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/莱妮丝.png"
+				small="gfx/interface/ideas/UNG/莱妮丝.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 莱妮丝			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	兰斯洛特={
+		name="兰斯洛特"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/兰斯洛特.png"
+				small="gfx/interface/ideas/UNG/兰斯洛特.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/兰斯洛特.png"
+				small="gfx/interface/ideas/UNG/兰斯洛特.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 兰斯洛特			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	莉兹拜斐·斯托琳多巴利={
+		name="莉兹拜斐·斯托琳多巴利"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/莉兹拜斐·斯托琳多巴利.png"
+				small="gfx/interface/ideas/UNG/莉兹拜斐·斯托琳多巴利.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/莉兹拜斐·斯托琳多巴利.png"
+				small="gfx/interface/ideas/UNG/莉兹拜斐·斯托琳多巴利.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 莉兹拜斐·斯托琳多巴利			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	两仪式={
+		name="两仪式"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/两仪式.png"
+				small="gfx/interface/ideas/UNG/两仪式.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/两仪式.png"
+				small="gfx/interface/ideas/UNG/两仪式.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 两仪式			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	鲁克莉莉={
+		name="鲁克莉莉"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/鲁克莉莉.png"
+				small="gfx/interface/ideas/UNG/鲁克莉莉.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/鲁克莉莉.png"
+				small="gfx/interface/ideas/UNG/鲁克莉莉.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 鲁克莉莉			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	露维亚瑟琳塔·艾德费尔特={
+		name="露维亚瑟琳塔·艾德费尔特"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/露维亚瑟琳塔·艾德费尔特.png"
+				small="gfx/interface/ideas/UNG/露维亚瑟琳塔·艾德费尔特.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/露维亚瑟琳塔·艾德费尔特.png"
+				small="gfx/interface/ideas/UNG/露维亚瑟琳塔·艾德费尔特.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 露维亚瑟琳塔·艾德费尔特			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	马里奥·杰兹罗·贝斯提诺={
+		name="马里奥·杰兹罗·贝斯提诺"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/马里奥·杰兹罗·贝斯提诺.png"
+				small="gfx/interface/ideas/UNG/马里奥·杰兹罗·贝斯提诺.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/马里奥·杰兹罗·贝斯提诺.png"
+				small="gfx/interface/ideas/UNG/马里奥·杰兹罗·贝斯提诺.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 马里奥·杰兹罗·贝斯提诺			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	玛修·基列莱特={
+		name="玛修·基列莱特"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/玛修·基列莱特.png"
+				small="gfx/interface/ideas/UNG/玛修·基列莱特.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/玛修·基列莱特.png"
+				small="gfx/interface/ideas/UNG/玛修·基列莱特.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 玛修·基列莱特			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	梅林={
+		name="梅林"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/梅林.png"
+				small="gfx/interface/ideas/UNG/梅林.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/梅林.png"
+				small="gfx/interface/ideas/UNG/梅林.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 梅林			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	摩根·勒菲={
+		name="摩根·勒菲"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/摩根·勒菲.png"
+				small="gfx/interface/ideas/UNG/摩根·勒菲.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/摩根·勒菲.png"
+				small="gfx/interface/ideas/UNG/摩根·勒菲.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 摩根·勒菲			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	诺耶尔={
+		name="诺耶尔"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/诺耶尔.png"
+				small="gfx/interface/ideas/UNG/诺耶尔.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/诺耶尔.png"
+				small="gfx/interface/ideas/UNG/诺耶尔.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 诺耶尔			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	蔷薇果={
+		name="蔷薇果"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/蔷薇果.png"
+				small="gfx/interface/ideas/UNG/蔷薇果.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/蔷薇果.png"
+				small="gfx/interface/ideas/UNG/蔷薇果.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 蔷薇果			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	天草四郎时贞={
+		name="天草四郎时贞"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/天草四郎时贞.png"
+				small="gfx/interface/ideas/UNG/天草四郎时贞.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/天草四郎时贞.png"
+				small="gfx/interface/ideas/UNG/天草四郎时贞.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 天草四郎时贞			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}韦伯·维尔维特={
+		name="韦伯·维尔维特"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/韦伯·维尔维特.png"
+				small="gfx/interface/ideas/UNG/韦伯·维尔维特.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/韦伯·维尔维特.png"
+				small="gfx/interface/ideas/UNG/韦伯·维尔维特.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 韦伯·维尔维特			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	卫宫切嗣={
+		name="卫宫切嗣"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/卫宫切嗣.png"
+				small="gfx/interface/ideas/UNG/卫宫切嗣.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/卫宫切嗣.png"
+				small="gfx/interface/ideas/UNG/卫宫切嗣.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 卫宫切嗣			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	卫宫士郎={
+		name="卫宫士郎"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/卫宫士郎.png"
+				small="gfx/interface/ideas/UNG/卫宫士郎.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/卫宫士郎.png"
+				small="gfx/interface/ideas/UNG/卫宫士郎.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 卫宫士郎			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	希耶尔={
+		name="希耶尔"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/希耶尔.png"
+				small="gfx/interface/ideas/UNG/希耶尔.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/希耶尔.png"
+				small="gfx/interface/ideas/UNG/希耶尔.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 希耶尔			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	言峰绮礼={
+		name="言峰绮礼"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/言峰绮礼.png"
+				small="gfx/interface/ideas/UNG/言峰绮礼.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/言峰绮礼.png"
+				small="gfx/interface/ideas/UNG/言峰绮礼.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 言峰绮礼			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	紫苑·艾尔特纳姆·阿特拉西亚={
+		name="紫苑·艾尔特纳姆·阿特拉西亚"
+		portraits={
+			army={
+				large="gfx/leaders/UNG/紫苑·艾尔特纳姆·阿特拉西亚.png"
+				small="gfx/interface/ideas/UNG/紫苑·艾尔特纳姆·阿特拉西亚.png"
+			}
+			civilian={
+				large="gfx/leaders/UNG/紫苑·艾尔特纳姆·阿特拉西亚.png"
+				small="gfx/interface/ideas/UNG/紫苑·艾尔特纳姆·阿特拉西亚.png"
+			}
+		}
+		corps_commander = {
+			traits = {这里填人物特质}
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+		advisor = {
+
+			cost = 150
+			slot = 这里填职业
+			idea_token = 紫苑·艾尔特纳姆·阿特拉西亚			 
+			allowed = yes
+			 			
+			traits = {
+				这里填相关职业特质
+			}
+		}
+	}
+	
+
+
+}

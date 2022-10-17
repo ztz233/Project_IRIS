@@ -1,0 +1,16 @@
+state={
+	id=361
+	name="STATE_361"
+	provinces={
+		1245 1696 6141 6738 11819 11840 11849 11872 11888 11920 
+	}
+	history={
+        owner = PCC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

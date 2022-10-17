@@ -1,0 +1,16 @@
+state={
+	id=35
+	name="STATE_35"
+	provinces={
+		1442 3419 3931 4692 4712 4959 7442 7622 7785 8208 8219 9251 9340 
+	}
+	history={
+        owner = IRI
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

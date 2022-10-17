@@ -1,0 +1,16 @@
+state={
+	id=507
+	name="STATE_507"
+	provinces={
+		652 12787 12802 
+	}
+	history={
+        owner = YUZ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

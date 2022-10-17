@@ -1,0 +1,16 @@
+state={
+	id=107
+	name="STATE_107"
+	provinces={
+		37 410 586 1575 1921 2015 2033 2880 3295 3360 3521 3609 4400 4616 5201 5292 5343 5726 5893 6130 6186 6623 6889 7094 7615 7662 7815 8323 8579 8602 8715 8718 9998 10031 10090 10133 10149 10189 10215 10246 10260 
+	}
+	history={
+        owner = BLA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=175
+	name="STATE_175"
+	provinces={
+		477 987 1585 3125 3491 5204 5748 5976 7049 8286 8603 10486 10506 10524 10539 10602 10682 10759 10787 10851 
+	}
+	history={
+        owner = SLL
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

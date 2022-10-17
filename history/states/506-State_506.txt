@@ -1,0 +1,16 @@
+state={
+	id=506
+	name="STATE_506"
+	provinces={
+		1452 2197 4874 6274 6907 7922 12808 12826 12851 
+	}
+	history={
+        owner = LAD
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

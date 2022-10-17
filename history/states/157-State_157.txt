@@ -1,0 +1,16 @@
+state={
+	id=157
+	name="STATE_157"
+	provinces={
+		721 766 867 2637 4350 5103 5657 7582 8177 10349 10359 10391 10392 
+	}
+	history={
+        owner = ELN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

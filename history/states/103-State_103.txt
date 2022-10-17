@@ -1,0 +1,16 @@
+state={
+	id=103
+	name="STATE_103"
+	provinces={
+		6540 9994 10034 
+	}
+	history={
+        owner = ELN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		741 1028 1179 1185 1347 1700 1707 2326 3313 4204 4314 4390 5080 6211 6251 6406 7242 7324 9705 9733 9734 9765 9842 9846 9872 9883 9893 9909 
+	}
+	history={
+        owner = NAC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

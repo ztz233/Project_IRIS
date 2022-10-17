@@ -1,0 +1,16 @@
+state={
+	id=320
+	name="STATE_320"
+	provinces={
+		22 1292 1349 1466 1667 2042 2710 2722 3680 4102 4138 4911 5917 6269 7254 8311 11543 11559 11692 11733 11774 11792 11868 11892 11926 11954 11994 11996 12020 
+	}
+	history={
+        owner = SLL
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

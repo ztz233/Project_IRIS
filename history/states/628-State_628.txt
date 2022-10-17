@@ -1,0 +1,16 @@
+state={
+	id=628
+	name="STATE_628"
+	provinces={
+		416 7899 8681 13383 
+	}
+	history={
+        owner = EPV
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

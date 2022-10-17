@@ -1,0 +1,16 @@
+state={
+	id=590
+	name="STATE_590"
+	provinces={
+		1865 3966 5598 6605 7047 8548 13193 13215 
+	}
+	history={
+        owner = WST
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

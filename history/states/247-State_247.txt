@@ -1,0 +1,16 @@
+state={
+	id=247
+	name="STATE_247"
+	provinces={
+		218 739 1274 1426 1915 2303 2485 2603 3307 4672 4888 5391 5528 6299 7300 8171 8483 10998 11009 11013 11046 11051 11065 11086 11114 
+	}
+	history={
+        owner = IKR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=13
+	name="STATE_13"
+	provinces={
+		2344 2653 6296 8916 8935 
+	}
+	history={
+        owner = SDN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

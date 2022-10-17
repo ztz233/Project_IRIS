@@ -1,0 +1,16 @@
+state={
+	id=421
+	name="STATE_421"
+	provinces={
+		858 1027 1227 3435 5211 8341 12257 12288 12307 
+	}
+	history={
+        owner = FCT
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		1398 2043 2796 4907 5792 6050 6757 6800 7051 9158 9184 9192 9226 9249 
+	}
+	history={
+        owner = ROY
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

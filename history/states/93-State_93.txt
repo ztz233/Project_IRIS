@@ -1,0 +1,9 @@
+state={
+	id=93
+	name="STATE_93"
+	provinces={
+		620 973 6838 9919 9932 9972 10002 10024 10040 
+	}
+	state_category=large_town	manpower=0
+	buildings_max_level_factor=1.000
+}

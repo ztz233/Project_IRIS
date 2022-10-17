@@ -1,0 +1,9 @@
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		280 757 1254 1862 4561 4752 5359 6082 6311 7416 7852 9713 9741 9763 9831 
+	}
+	state_category=large_town	manpower=0
+	buildings_max_level_factor=1.000
+}

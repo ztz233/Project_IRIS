@@ -1,0 +1,16 @@
+state={
+	id=634
+	name="STATE_634"
+	provinces={
+		1114 5740 6364 6832 8146 8379 8699 13477 
+	}
+	history={
+        owner = GOS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

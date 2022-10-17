@@ -1,0 +1,16 @@
+state={
+	id=57
+	name="STATE_57"
+	provinces={
+		185 1241 1473 1608 1961 2034 2462 2515 2825 3739 3748 4084 4092 4182 4845 5023 5437 5542 5593 6790 6870 7124 7173 7747 8048 8140 8523 8549 8627 8702 9523 9603 9652 9659 9667 9686 9746 9750 9768 9774 9819 9823 9864 9928 
+	}
+	history={
+        owner = DHN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

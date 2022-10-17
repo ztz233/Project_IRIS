@@ -1,0 +1,16 @@
+state={
+	id=402
+	name="STATE_402"
+	provinces={
+		135 1825 2694 3543 4588 5007 5272 5336 5883 6289 12133 12213 12222 12243 
+	}
+	history={
+        owner = PCC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

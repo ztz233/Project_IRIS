@@ -1,0 +1,139 @@
+guiTypes = {
+
+	containerWindowType = {
+		name = "CM_SE_main_container"
+		orientation = center
+		Origo = center
+		size = { width = 650 height = 650 }
+		position = { x = 0  y= 0 }  
+		moveable = yes 	
+		clipping = no 
+		
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_tiled_window_transparent"
+			#need a solid background to drag it around	
+		}	
+		
+#		iconType = {
+#			name = "CM_SE_bg"
+#			spriteType = "GFX_CM_SE_bg"
+#			position = { x = 0 y = 0 }
+#			Orientation = upper_left
+#			alwaystransparent = yes
+#			#background texture,made it can be clicked through
+#			
+#		}
+		
+		iconType = {
+			name = "CM_SE_picture_positioning_entry"
+			spriteType = "GFX_CM_SE_pic_entry"
+			position = { x = 140  y = 50 }
+			Orientation = upper_left
+			alwaystransparent = yes 
+			#entry of custom pics,defined by scripted guis and scripted locs
+		}
+		  	
+		iconType = {
+			name = "CM_SE_frame_overlay"
+			spriteType = "GFX_CM_SE_frame_overlay"
+			position = { x = 0 y = 0 }
+			Orientation = upper_left
+			alwaystransparent = yes
+			#top overlay texture
+		}
+		buttonType = {
+			name = "CM_SE_exit_btn"
+			position = { x = 125  y = 560 }
+			spriteType = "GFX_CM_SE_exit_btn"
+			orientation = upper_left
+			scale = 1.1 
+			#position = { x = 103  y = 444 }
+			#buttonText = "CM_SE_btn"
+			#buttonFont = "hoi_20bs"
+			
+			#option button
+		}
+		instantTextboxType = {
+			name = "CM_SE_btn" 
+			position = { x = 85 y = 608  }
+			font = "hoi_20bs"
+			text = "CM_SE_btn"		
+			maxWidth = 500
+			maxHeight = 30
+			fixedsize = yes
+			format = center
+			#option text,seperated from buttonText
+		}
+		containerWindowType = {
+			name = "CM_SE_title_big"
+			position = { x = 80 y = 458 }
+			scale=0.5
+			instantTextboxType = {
+				name = "CM_SE_title" 
+				position = { x = 270 y = 0 }
+				font = "tahoma_60"
+				text = "CM_SE_title"		
+				maxWidth = 500
+				maxHeight = 80
+				fixedsize = yes
+				format = center
+			}
+		}
+		instantTextboxType = {
+			name = "CM_SE_desc_left" 
+			position = { x = 153 y = 500 }
+			font = "hoi_18mbs"        
+			text = "CM_SE_desc"		
+			maxWidth = 370 
+			maxHeight = 88
+			format = center
+			fixedsize = yes
+			#left aligned textbox
+		} 
+		instantTextboxType = {
+			name = "CM_SE_desc_center" 
+			position = { x = 153 y = 500 }
+			font = "hoi_18mbs"        
+			text = "CM_SE_desc"		
+			maxWidth = 370 
+			maxHeight = 88
+			format = center  
+			fixedsize = yes
+			#center aligned textbox,for lyrics or poems
+		}
+		iconType = {
+			name = "CM_SE_mo"
+			spriteType = "GFX_CM_SE_mo"
+			position = { x = 140  y = 50 }
+			Orientation = upper_left
+			alwaystransparent = yes 
+			#entry of custom pics,defined by scripted guis and scripted locs
+		}
+		instantTextboxType = {
+			name = "CM_SE_quote" 
+			position = { x = 138  y = 560 }
+			font = "hoi_16mbs"
+			text = "CM_SE_quote"		
+			maxWidth = 400
+			maxHeight = 30
+			format = center
+			fixedsize = yes
+			#where does previous quote come from,optional
+		}
+		instantTextboxType = { 
+			name = "CM_SE_quote_extra" 
+			position = { x = 138  y = 560 }
+			font = "hoi_16mbs"
+			text = "CM_SE_quote"		
+			maxWidth = 400
+			maxHeight = 30
+			format = center
+			fixedsize = yes
+			#emphasize previous text or it'll look a bit blurry in-game due to the small fontsize
+		}
+		
+	}
+	
+	
+}

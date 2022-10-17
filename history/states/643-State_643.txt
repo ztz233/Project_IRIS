@@ -1,0 +1,16 @@
+state={
+	id=643
+	name="STATE_643"
+	provinces={
+		3215 3988 13458 13523 
+	}
+	history={
+        owner = CLD
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

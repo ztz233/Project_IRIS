@@ -1,0 +1,16 @@
+state={
+	id=240
+	name="STATE_240"
+	provinces={
+		151 379 1069 2142 2765 3934 4196 4553 5357 5514 6816 7353 7665 8080 10945 10958 10992 11005 11061 11090 11098 11101 11116 11137 11154 
+	}
+	history={
+        owner = SRS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

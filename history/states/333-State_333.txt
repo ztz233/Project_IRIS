@@ -1,0 +1,16 @@
+state={
+	id=333
+	name="STATE_333"
+	provinces={
+		530 592 951 2391 2953 2969 3361 3389 3531 3832 3922 4236 4548 5168 6497 7030 7825 8412 8629 11592 11607 11635 11648 11649 11706 11789 11790 11804 11821 11824 11830 11846 11869 11887 11903 
+	}
+	history={
+        owner = FUS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

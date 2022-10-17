@@ -1,0 +1,16 @@
+state={
+	id=546
+	name="STATE_546"
+	provinces={
+		1099 
+	}
+	history={
+        owner = YUZ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

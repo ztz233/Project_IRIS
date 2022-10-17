@@ -1,0 +1,16 @@
+state={
+	id=29
+	name="STATE_29"
+	provinces={
+		2487 
+	}
+	history={
+        owner = HEM
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=510
+	name="STATE_510"
+	provinces={
+		1893 2023 2319 2946 4087 6604 6622 7406 7423 8075 8609 12805 12822 12873 12892 12943 12968 13002 
+	}
+	history={
+        owner = MAG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

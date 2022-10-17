@@ -1,0 +1,16 @@
+state={
+	id=595
+	name="STATE_595"
+	provinces={
+		3043 3917 4319 5110 7606 13229 13248 
+	}
+	history={
+        owner = KMK
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

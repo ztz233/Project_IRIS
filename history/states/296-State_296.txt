@@ -1,0 +1,16 @@
+state={
+	id=296
+	name="STATE_296"
+	provinces={
+		576 1979 2286 2725 2739 3535 4925 5183 6492 6560 6965 7035 7238 7417 8053 8599 11416 11448 11488 11513 11515 11541 
+	}
+	history={
+        owner = IKR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

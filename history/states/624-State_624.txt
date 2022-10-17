@@ -1,0 +1,16 @@
+state={
+	id=624
+	name="STATE_624"
+	provinces={
+		5616 13441 13483 
+	}
+	history={
+        owner = WST
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

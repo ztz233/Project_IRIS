@@ -1,0 +1,16 @@
+state={
+	id=610
+	name="STATE_610"
+	provinces={
+		4208 13321 
+	}
+	history={
+        owner = WST
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

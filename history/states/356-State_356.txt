@@ -1,0 +1,16 @@
+state={
+	id=356
+	name="STATE_356"
+	provinces={
+		1978 4968 7175 8014 11822 
+	}
+	history={
+        owner = FUS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=377
+	name="STATE_377"
+	provinces={
+		51 233 615 946 1251 1448 1905 2636 2768 2916 6217 7637 11942 11977 12018 12042 12061 
+	}
+	history={
+        owner = FUS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

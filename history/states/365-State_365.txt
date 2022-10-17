@@ -1,0 +1,16 @@
+state={
+	id=365
+	name="STATE_365"
+	provinces={
+		4122 4606 6048 6760 7585 8407 11859 11893 11932 11956 11984 
+	}
+	history={
+        owner = BOW
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=447
+	name="STATE_447"
+	provinces={
+		4355 5993 7956 12491 12507 12522 
+	}
+	history={
+        owner = LZH
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

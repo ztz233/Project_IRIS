@@ -1,0 +1,16 @@
+state={
+	id=28
+	name="STATE_28"
+	provinces={
+		671 2231 2522 2997 3440 3447 4172 4579 5232 5316 5831 7199 7809 7901 8710 9137 9138 9193 9198 9206 9240 9244 9279 
+	}
+	history={
+        owner = WEG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

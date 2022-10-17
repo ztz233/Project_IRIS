@@ -1,0 +1,16 @@
+state={
+	id=189
+	name="STATE_189"
+	provinces={
+		108 849 1951 2954 3375 3391 3493 3862 4885 5178 6073 6339 6787 7640 7715 8539 8561 8644 10647 10685 10693 10716 10789 10814 10823 10848 10884 
+	}
+	history={
+        owner = UNG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

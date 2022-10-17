@@ -1,0 +1,16 @@
+state={
+	id=67
+	name="STATE_67"
+	provinces={
+		68 2109 2406 3062 6396 8221 9633 9656 9756 
+	}
+	history={
+        owner = ELN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

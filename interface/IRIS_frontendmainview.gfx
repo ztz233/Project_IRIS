@@ -1,0 +1,20 @@
+#background sprite is in frontendmainviewbg.gfx
+
+spriteTypes = {	
+	spriteType = {
+		name = "IRIS_logo"
+		texturefile = "gfx/interface/icons/IRIS_logo.dds"
+	}
+}
+spriteTypes = {	
+	spriteType = {
+		name = "danrenyouxi"
+		texturefile = "gfx/interface/单人游戏.dds"
+	}
+}
+spriteTypes = {	
+	spriteType = {
+		name = "duorenyouxi"
+		texturefile = "gfx/interface/多人游戏.dds"
+	}
+}

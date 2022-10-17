@@ -1,0 +1,16 @@
+state={
+	id=604
+	name="STATE_604"
+	provinces={
+		4027 
+	}
+	history={
+        owner = TNA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

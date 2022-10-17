@@ -1,0 +1,16 @@
+state={
+	id=49
+	name="STATE_49"
+	provinces={
+		531 541 1033 1052 1314 2633 2688 3289 3907 4807 5346 6362 6974 7158 7735 9469 9483 9492 9513 9528 9546 9560 9580 9635 
+	}
+	history={
+        owner = NAC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

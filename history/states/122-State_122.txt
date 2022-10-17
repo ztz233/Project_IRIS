@@ -1,0 +1,16 @@
+state={
+	id=122
+	name="STATE_122"
+	provinces={
+		2700 6334 10037 10064 10081 10106 
+	}
+	history={
+        owner = NAC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

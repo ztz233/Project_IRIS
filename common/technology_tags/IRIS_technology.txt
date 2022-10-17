@@ -1,0 +1,11 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new technology, make sure they are uniquely named.
+
+technology_categories = {
+	mana_tech
+}
+
+#technology_folders = {
+#}
+
+ 

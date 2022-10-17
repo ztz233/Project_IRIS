@@ -1,0 +1,16 @@
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		1267 3703 4365 6644 9057 9065 
+	}
+	history={
+        owner = ROY
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

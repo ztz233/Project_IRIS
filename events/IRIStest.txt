@@ -1,0 +1,307 @@
+﻿
+
+add_namespace = IRIStest
+#玛纳工坊统计
+country_event = {
+	id = IRIStest.1			
+	title = IRIStest.1.t
+	desc = IRIStest.1.d
+	#picture =  
+
+	is_triggered_only = yes
+		
+
+	option = {
+		name = IRIStest.1.a
+		MLA = {
+			every_character = {
+				set_nationality = FROM
+			}
+		}
+		DLA = {
+			every_character = {
+				set_nationality = FROM
+			}
+		}
+		LLA = {
+			every_character = {
+				set_nationality = FROM
+			}
+		}
+	}
+}
+
+#政策安装
+country_event = {
+	id = IRIStest.2			
+	title = IRIStest.2.t
+	desc = IRIStest.2.d
+	#picture =  
+
+	is_triggered_only = yes
+	hidden = yes
+	
+	immediate = {
+		if = {
+			limit = {
+				has_government = junzhuzhiminzhuzhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = ziyoufanren
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 8xiaoshi
+			add_ideas = chengjiexinsifa
+		}
+		if = {
+			limit = {
+				has_government = gonghezhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = ziyoufanren
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = youxianganshe
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 12xiaoshi
+			add_ideas = jiaoyuxinsifa
+		}
+		if = {
+			limit = {
+				has_government = weiquanshehuizhuyi
+			}
+			add_ideas = shuishoudengji_4
+			add_ideas = jihuajingji
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 8xiaoshi
+			add_ideas = congzhongchufa
+		}	
+		if = {
+			limit = {
+				has_government = kaituozhuyi
+			}
+			add_ideas = shuishoudengji_2
+			add_ideas = ziyoufanren
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongxindalu
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 8xiaoshi
+			add_ideas = jiaoyuxinsifa
+		}
+		if = {
+			limit = {
+				has_government = ziyoushehuizhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = ziyoufanren
+			add_ideas = ruoshifasequntiyouxian
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 8xiaoshi
+			add_ideas = jiaoyuxinsifa
+		}		
+		if = {
+			limit = {
+				has_government = junzhenfu
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = youxiantiaokong
+			add_ideas = fasegelizhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_1
+			add_ideas = 8xiaoshi
+			add_ideas = congzhongchufa
+		}
+		if = {
+			limit = {
+				has_government = junzhuzhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = youxiantiaokong
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 8xiaoshi
+			add_ideas = chengjiexinsifa
+		}
+		if = {
+			limit = {
+				has_government = weiquanminzhuzhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = youxiantiaokong
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = youxianganshe
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 12xiaoshi
+			add_ideas = chengjiexinsifa
+		}
+		if = {
+			limit = {
+				has_government = manazhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = youxiantiaokong
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = moliyouxian
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 8xiaoshi
+			add_ideas = jiaoyuxinsifa
+		}
+		if = {
+			limit = {
+				has_government = chaoyuezhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = ziyoufanren
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = kexueyouxian
+			add_ideas = fadingyureshiduan_1
+			add_ideas = 12xiaoshi
+			add_ideas = jiaoyuxinsifa
+		}
+		if = {
+			limit = {
+				has_government = annacaizhuyi
+			}
+			add_ideas = shuishoudengji_1
+			add_ideas = ziyoufanren
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = quanqiudiyuanzhenzhi
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_2
+			add_ideas = 8xiaoshi
+			add_ideas = tongtongchuque
+		}
+		if = {
+			limit = {
+				has_government = eryuanguilinzhuyi
+			}
+			add_ideas = shuishoudengji_5
+			add_ideas = jihuajingji
+			add_ideas = qiangzhilanfa
+			add_ideas = junhenfazhan
+			add_ideas = quanqiudiyuanzhenzhi
+			add_ideas = pinghenfazhan
+			add_ideas = jingzhiyure
+			add_ideas = 16xiaoshi
+			add_ideas = tongtongchuque
+		}
+		if = {
+			limit = {
+				has_government = jiangzhizhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = ziyoufanren
+			add_ideas = fasepingdengzhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_3
+			add_ideas = 8xiaoshi
+			add_ideas = chengjiexinsifa
+		}
+		if = {
+			limit = {
+				has_government = genyuanshouhuzhuyi
+			}
+			add_ideas = shuishoudengji_3
+			add_ideas = jihuajingji
+			add_ideas = fasegelizhence
+			add_ideas = junhenfazhan
+			add_ideas = zhuozhongbenguo
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_3
+			add_ideas = 4xiaoshi
+			add_ideas = jiaoyuxinsifa
+		}
+		if = {
+			limit = {
+				has_government = zhipeizhuyi
+			}
+			add_ideas = shuishoudengji_5
+			add_ideas = jihuajingji
+			add_ideas = fasegelizhence
+			add_ideas = junhenfazhan
+			add_ideas = quanqiudiyuanzhenzhi
+			add_ideas = pinghenfazhan
+			add_ideas = fadingyureshiduan_1
+			add_ideas = 12xiaoshi
+			add_ideas = tongtongchuque
+		}
+		else = {
+			
+		}
+		set_country_flag = zhengceanzhuangwanbi
+	}	
+		
+
+	option = {
+		name = IRIStest.2.a
+		
+	}
+}
+
+#初始菜单
+country_event = {
+	id = IRIStest.3			
+	title = IRIStest.3.t
+	desc = IRIStest.3.d
+	#picture =  
+
+	is_triggered_only = yes
+	hidden = yes
+	
+	immediate = {
+		set_variable = { IRIS_welcome_screen = 1 }
+		set_country_flag = WS_OK
+	}	
+		
+
+	option = {
+		name = IRIStest.3.a
+		
+	}
+}
+
+#####################人员转换
+country_event = {
+	id = IRIStest.4			
+	title = IRIStest.4.t
+	desc = IRIStest.4.d
+	#picture =  
+
+	is_triggered_only = yes
+	hidden = no
+	
+		
+
+	option = {
+		name = IRIStest.4.a
+	}
+}
+
+

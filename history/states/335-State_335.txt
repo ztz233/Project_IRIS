@@ -1,0 +1,16 @@
+state={
+	id=335
+	name="STATE_335"
+	provinces={
+		526 791 1060 1370 1711 1759 2314 3596 3598 3889 5299 5904 6916 7322 8306 8594 8682 11585 11610 11622 11624 11653 11707 11716 11776 11778 11861 11908 
+	}
+	history={
+        owner = FUS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

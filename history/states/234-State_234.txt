@@ -1,0 +1,16 @@
+state={
+	id=234
+	name="STATE_234"
+	provinces={
+		892 1173 1209 1971 3396 4587 5454 5938 6944 7031 7172 7612 7893 10876 10932 10968 10983 10999 11003 
+	}
+	history={
+        owner = BLA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

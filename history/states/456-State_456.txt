@@ -1,0 +1,16 @@
+state={
+	id=456
+	name="STATE_456"
+	provinces={
+		1752 3163 3407 3420 3944 3982 4166 5407 7760 7878 8625 12521 12585 12641 
+	}
+	history={
+        owner = MAG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=25
+	name="STATE_25"
+	provinces={
+		1690 2719 4180 4806 9143 9181 9255 
+	}
+	history={
+        owner = SDN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=144
+	name="STATE_144"
+	provinces={
+		6123 6170 7244 8709 10218 10259 10272 
+	}
+	history={
+        owner = USR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

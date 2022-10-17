@@ -1,0 +1,16 @@
+state={
+	id=619
+	name="STATE_619"
+	provinces={
+		3160 3294 13384 
+	}
+	history={
+        owner = EPV
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

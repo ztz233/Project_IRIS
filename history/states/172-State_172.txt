@@ -1,0 +1,16 @@
+state={
+	id=172
+	name="STATE_172"
+	provinces={
+		45 585 608 942 949 1005 1587 1631 2734 3147 3218 3367 3584 4113 4210 4299 5146 5208 5645 6036 6420 6586 6725 7143 7821 10557 10561 10572 10591 10595 10626 10636 10637 10642 10644 10667 10704 10708 
+	}
+	history={
+        owner = BLA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

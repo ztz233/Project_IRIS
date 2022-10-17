@@ -1,0 +1,16 @@
+state={
+	id=289
+	name="STATE_289"
+	provinces={
+		74 296 453 1020 1731 2263 2336 2948 2967 3783 4329 4574 4608 5880 5916 5930 6776 6803 7110 7142 7943 11359 11375 11385 11439 11462 11463 11499 11505 11551 
+	}
+	history={
+        owner = SRS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

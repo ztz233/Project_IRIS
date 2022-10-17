@@ -1,0 +1,16 @@
+state={
+	id=627
+	name="STATE_627"
+	provinces={
+		3600 6502 13395 13433 
+	}
+	history={
+        owner = YKM
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

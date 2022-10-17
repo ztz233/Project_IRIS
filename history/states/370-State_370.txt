@@ -1,0 +1,16 @@
+state={
+	id=370
+	name="STATE_370"
+	provinces={
+		239 1387 7398 7769 8160 
+	}
+	history={
+        owner = KAM
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

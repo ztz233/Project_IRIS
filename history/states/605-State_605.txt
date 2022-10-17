@@ -1,0 +1,16 @@
+state={
+	id=605
+	name="STATE_605"
+	provinces={
+		1388 1885 3883 6381 13279 13317 13325 
+	}
+	history={
+        owner = HKR
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

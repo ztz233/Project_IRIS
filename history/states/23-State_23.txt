@@ -1,0 +1,16 @@
+state={
+	id=23
+	name="STATE_23"
+	provinces={
+		877 1960 4339 4569 6717 7141 9099 9134 9154 9228 9286 9305 9322 
+	}
+	history={
+        owner = HEM
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

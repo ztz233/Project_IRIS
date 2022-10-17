@@ -1,0 +1,6 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_refined_mana_medium"
+		texturefile = "gfx/interface/technologies/refined_mana_1.dds"
+	}	
+}

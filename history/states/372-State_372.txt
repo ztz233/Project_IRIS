@@ -1,0 +1,16 @@
+state={
+	id=372
+	name="STATE_372"
+	provinces={
+		1793 2518 3458 5970 7234 7753 8427 11936 11982 12019 12036 12063 
+	}
+	history={
+        owner = KAM
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

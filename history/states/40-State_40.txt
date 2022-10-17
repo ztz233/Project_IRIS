@@ -1,0 +1,16 @@
+state={
+	id=40
+	name="STATE_40"
+	provinces={
+		230 441 1018 1285 2921 3098 3948 5059 6143 9283 9308 9319 9349 9364 9369 9420 9430 
+	}
+	history={
+        owner = HEM
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

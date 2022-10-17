@@ -1,0 +1,16 @@
+state={
+	id=209
+	name="STATE_209"
+	provinces={
+		66 77 458 911 913 1083 1128 1204 1533 1663 1746 3296 3314 4213 4682 4991 5165 6408 7057 7079 7127 7207 8346 10784 10791 10822 10832 10841 10861 10872 10878 10895 10908 10944 10970 10987 10988 11014 11049 
+	}
+	history={
+        owner = SRS
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

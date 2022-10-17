@@ -1,0 +1,16 @@
+state={
+	id=255
+	name="STATE_255"
+	provinces={
+		208 404 859 1848 1861 1959 2236 2799 3227 3247 3403 3504 3506 3585 4044 4722 4788 5385 5389 5540 5659 5735 6439 6718 6744 7214 7707 7778 7946 8473 11001 11026 11094 11106 11135 11146 11159 11160 11184 11193 11197 11201 11218 11220 
+	}
+	history={
+        owner = UNG
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}

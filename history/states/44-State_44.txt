@@ -1,0 +1,16 @@
+state={
+	id=44
+	name="STATE_44"
+	provinces={
+		414 666 959 3646 6145 7327 8121 9344 9357 9373 9374 9409 9421 9425 
+	}
+	history={
+        owner = HSK
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	state_category=large_town
+	manpower=0
+	buildings_max_level_factor=1.000
+}
