@@ -29,14 +29,14 @@
 speed_TP_1 = {
 	enable = { always = yes }
 	
-	icon = GFX_modifiers_sabotaged_resource
+	icon = GFX_portal_icon
 	
 	army_speed_factor_for_controller = 999
 }
 speed_TP_0 = {
 	enable = { always = yes }
 	
-	icon = GFX_modifiers_sabotaged_resource
+	icon = GFX_portal_icon
 	
 	army_speed_factor = 999
 }

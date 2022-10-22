@@ -5,11 +5,11 @@ characters={
 		portraits={
 			army={
 				large="gfx/leaders/UNG/阿尔托莉雅.png"
-				small="gfx/interface/ideas/UNG/阿尔托莉雅.dds"
+				small="gfx/interface/ideas/UNG/阿尔托莉雅.png"
 			}
 			civilian={
 				large="gfx/leaders/UNG/阿尔托莉雅.png"
-				small="gfx/interface/ideas/UNG/阿尔托莉雅.dds"
+				small="gfx/interface/ideas/UNG/阿尔托莉雅.png"
 			}
 		}
 		field_marshal={
@@ -49,12 +49,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 阿格规文			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -82,12 +80,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 苍崎橙子			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -115,12 +111,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 莫德雷德			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -147,13 +141,10 @@ characters={
 			logistics_skill = 1
 			legacy_id = -1
 		}
-		advisor = {
-
-			cost = 150
+		advisor = {			cost = 150
 			slot = 这里填职业
 			idea_token = 卡莲·奥尔黛西亚			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -181,12 +172,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 薇尔莉特·伊芙加登			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -214,12 +203,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 远坂凛			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -247,12 +234,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 阿萨姆			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -280,12 +265,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 爱尔奎特·布伦史塔德			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -313,12 +296,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -347,12 +328,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 巴泽特·弗拉加·马克雷密斯			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -381,12 +360,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 贝德维尔			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -415,12 +392,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 苍崎青子			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -448,12 +423,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 橙黄白毫			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -481,12 +454,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 崔斯坦			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -514,12 +485,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 大吉岭			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -547,12 +516,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 高文			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -580,12 +547,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 格蕾			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -613,12 +578,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 加拉哈德			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -646,12 +609,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 加雷斯			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -679,12 +640,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 间桐樱			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -712,12 +671,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 久宇舞弥			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -745,12 +702,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 久远寺有珠			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -778,12 +733,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 莱妮丝			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -811,12 +764,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 兰斯洛特			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -844,12 +795,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 莉兹拜斐·斯托琳多巴利			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -877,12 +826,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 两仪式			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -910,12 +857,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 鲁克莉莉			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -943,12 +888,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 露维亚瑟琳塔·艾德费尔特			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -976,12 +919,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 马里奥·杰兹罗·贝斯提诺			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1009,12 +950,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 玛修·基列莱特			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1042,12 +981,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 梅林			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1075,12 +1012,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 摩根·勒菲			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1108,12 +1043,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 诺耶尔			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1141,12 +1074,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 蔷薇果			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1174,12 +1105,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 天草四郎时贞			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1206,12 +1135,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 韦伯·维尔维特			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1239,12 +1166,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 卫宫切嗣			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1272,12 +1197,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 卫宫士郎			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1305,12 +1228,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 希耶尔			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1338,12 +1259,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 言峰绮礼			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
@@ -1371,12 +1290,10 @@ characters={
 			legacy_id = -1
 		}
 		advisor = {
-
 			cost = 150
 			slot = 这里填职业
 			idea_token = 紫苑·艾尔特纳姆·阿特拉西亚			 
 			allowed = yes
-			 			
 			traits = {
 				这里填相关职业特质
 			}
